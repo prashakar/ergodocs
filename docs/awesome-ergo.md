@@ -573,6 +573,7 @@
 - [Sigmaspace](https://sigmaspace.io/) – alternative explorer with tools & charts. [GitHub](https://github.com/pulsarz/sigmaexplorer)
 - [eBiome](https://ebiome.cc/) – ecosystem analytics, explorer, and forensics dashboard.
 - [ErgoScan](https://ergoscan.me/) – beta explorer for blocks, transactions, tokens, mempool, and DeFi activity. [Public API](https://ergoscan.me/docs)
+- [Super Ergo](https://superergo.net/) – explorer on its own node with decoded boxes and registers, token holders, mempool, mining, and Rosen Bridge transfers.
 - [erg-explorer](https://github.com/AcoSmrkas/ErgExplorer) – community-built explorer. [`JS/TS`] [Telegram](https://t.me/ErgExplorer)
 - [uexplorer](https://github.com/pragmaxim/ergo-uexplorer) – minimalist UTXO set explorer. [`Scala`]
 - [Indexed Node Explorer](https://github.com/Luivatra/indexed-node-explorer) – simple UI for indexed node. [`JS/TS`]
@@ -583,6 +584,7 @@
 
 - [ErgoWatch](https://ergo.watch/) – network stats, tokenomics & analytics. [GitHub](https://github.com/abchrisxyz/ergowatch)
 - [eBiome](https://ebiome.cc/) – dashboard for ecosystem analytics, mining, DeFi, stablecoins, and Rosen Bridge data.
+- [Super Ergo](https://superergo.net/vitals) – SigmaUSD and Dexy reserve state, the ERG/USD oracle, and mining share, plus a [Rosen Bridge hub](https://superergo.net/rosen) with a transfer tracker, fee calculator, and watcher health.
 - [Ergo Nodes Dashboard](http://ergonodes.net/) – network map & node stats. [GitHub](https://github.com/Satergo/Ergonnection)
 - [Paizo Mining Vote Simulator](https://deadit.github.io/paizo/) – EIP-27 miner voting simulator. [GitHub](https://github.com/deadit/paizo)
 - [Testnet Faucet](https://testnet.ergofaucet.org/) – faucet for testnet ERG.

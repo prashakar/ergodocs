@@ -99,6 +99,7 @@ BlockHost provisions VMs from on-chain subscriptions and uses NFTs for access cr
 | [Vanity GPU](vanity-gpu.md) | - | Active | 2026-01-05 |
 | [Ergomempool Visualizer](mempool-vis.md) | [ergomempool.com](https://ergomempool.com/) | Active | 2025-12-04 |
 | [eBiome](ebiome.md) | [ebiome.cc](https://ebiome.cc/) | Live dashboard | 2026-06-11 |
+| [Super Ergo](https://superergo.net/about) | [superergo.net](https://superergo.net/) | Live closed-source explorer and Rosen Bridge dashboard | 2026-11-24 |
 | [ErgoNames](ergonames.md) | [app.ergonames.io](https://app.ergonames.io/) | Public beta / mainnet hardening | 2026-07-02 |
 | [ErgOne](ergone.md) | [GitHub](https://github.com/scruper/ergone) | Source available; hosted app unavailable | 2024-09-02 |
 | [GuapSwap](guapswap.md) | [guapswap.org](https://guapswap.org/) | Live, usable | 2024-01-20 |

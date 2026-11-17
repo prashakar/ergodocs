@@ -23,6 +23,7 @@ There are several public explorer available:
 - [ergexplorer.com](https://ergexplorer.com/)
 - [sigmaspace.io](https://sigmaspace.io/)
 - [ErgoScan](https://ergoscan.me/) — beta explorer covering blocks, transactions, addresses, tokens, mempool, and DeFi activity, with a [public API](https://api.ergoscan.me/docs).
+- [Super Ergo](https://superergo.net/) — explorer running on its own Ergo node, covering blocks, transactions, addresses, decoded boxes and registers, tokens and holders, mempool, and mining, with a [Rosen Bridge section](https://superergo.net/rosen) for transfers, fees, and watcher health.
 
 ## Kadia Explorer
 
